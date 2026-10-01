@@ -17,3 +17,4 @@ jobs:
           credly_user: olivier-vigliengo
           sort: LATEST
           badge_width: 100
+          empty_message: "No badge found"
