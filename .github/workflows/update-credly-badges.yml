@@ -1,7 +1,8 @@
 name: Update Credly Badges
 on:
   schedule:
-    - cron: "0 2 * * *"
+    - cron: "1 0 * * *"
+#    - cron: "0 2 * * *"
   workflow_dispatch:
 
 permissions:
