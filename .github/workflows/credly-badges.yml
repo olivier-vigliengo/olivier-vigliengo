@@ -18,4 +18,4 @@ jobs:
         with:
           credly_username: 'olivier-vigliengo'
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          readme_file: 'badges.md'
+          
