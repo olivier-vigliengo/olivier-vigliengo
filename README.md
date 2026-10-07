@@ -1,3 +1,2 @@
-<!--START_SECTION:badges-->
-
-<!--END_SECTION:badges-->
+<!-- START CREDLY BADGES -->
+<!-- END CREDLY BADGES -->
